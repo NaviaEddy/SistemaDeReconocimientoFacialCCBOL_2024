@@ -20,7 +20,6 @@ El sistema gestiona la base de datos de los asistentes, autentica accesos median
 - 🗄️ **Base de datos en MySQL** para almacenar participantes y controlar su estado de ingreso.  
 - 🌐 **API REST** desarrolladas con **Python (Flask)** para la comunicación entre módulos.  
 - 🔐 **Módulo de autenticación con tokens (JWT)** para ingreso seguro al sistema.  
-- 📷 **Reportes automáticos** de los participantes que ingresaron a la conferencia.  
 
 ---
 
@@ -48,14 +47,15 @@ El sistema gestiona la base de datos de los asistentes, autentica accesos median
 *Interfaz de control de asistencia*  
 
 ### 👨‍💻 Interfaz de usuarios
-<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/2d6fae7e-d8e9-475e-841e-88744076e841" />
 <img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/3aee1d2f-1436-4286-80e5-b93509671c8b" />
+<img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8ef461-d8c8-4f2a-92cf-f20ca1b0b394" />
 
-*Interfaz de control de asistencia* 
+*Interfaz de usuarios* 
 
-### 📊 Reporte de Ingresos
-![Reporte](./assets/report.png)  
-*Vista de reportes de los asistentes registrados en la conferencia.*  
+### 📌 Interfaz de eventos
+<img width="1915" height="941" alt="image" src="https://github.com/user-attachments/assets/f8b36741-9fdc-41f3-b7fb-61e7d77b3e88" />
+
+*Interfaz de eventos* 
 
 ---
 
