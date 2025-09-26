@@ -38,12 +38,20 @@ El sistema gestiona la base de datos de los asistentes, autentica accesos median
 
 ## 🖼️ Imágenes del Sistema
 ### 🔐 Pantalla de Login
-![Login](./assets/login.png)  
+<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/9418e12c-20cb-43b8-957b-612d6513cda6" />
+
 *Interfaz de autenticación de usuarios con tokens.*  
 
-### 👁️‍🗨️ Módulo de Reconocimiento Facial
-![Reconocimiento](./assets/face_recognition.png)  
-*Ejemplo del sistema detectando y reconociendo participantes en tiempo real.*  
+### 👁️‍🗨️ Interfaz de Asistencia
+<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/2d6fae7e-d8e9-475e-841e-88744076e841" />
+
+*Interfaz de control de asistencia*  
+
+### 👨‍💻 Interfaz de usuarios
+<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/2d6fae7e-d8e9-475e-841e-88744076e841" />
+<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/3aee1d2f-1436-4286-80e5-b93509671c8b" />
+
+*Interfaz de control de asistencia* 
 
 ### 📊 Reporte de Ingresos
 ![Reporte](./assets/report.png)  
