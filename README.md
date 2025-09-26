@@ -48,7 +48,8 @@ El sistema gestiona la base de datos de los asistentes, autentica accesos median
 
 ### 👨‍💻 Interfaz de usuarios
 <img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/3aee1d2f-1436-4286-80e5-b93509671c8b" />
-<img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/6e8ef461-d8c8-4f2a-92cf-f20ca1b0b394" />
+<img width="1915" height="940" alt="Screenshot 2025-09-26 012302" src="https://github.com/user-attachments/assets/39022b8e-f84d-4f52-8747-bcc4c29dd24f" />
+
 
 *Interfaz de usuarios* 
 
@@ -66,4 +67,4 @@ El sistema gestiona la base de datos de los asistentes, autentica accesos median
 ---
 
 > [!IMPORTANT]  
-> Por motivos de confidencialidad, no es posible compartir el código fuente del proyecto, pero estoy dispuesto a discutir el proceso de desarrollo y los retos técnicos enfrentados.
+> Por motivos de confidencialidad, no es posible compartir el código fuente del proyecto ni mostrar el funcionamiento del sistema, debido a la privacidad de las imágenes y datos de los usuarios. Sin embargo, estoy dispuesto a discutir el proceso de desarrollo y los retos técnicos enfrentados
